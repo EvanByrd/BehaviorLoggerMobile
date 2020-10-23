@@ -1,0 +1,12 @@
+{
+  "name": "BehaviorLoggerMobile",
+  "displayName": "BehaviorLoggerMobile",
+  "expo": {
+    "name": "BehaviorLoggerMobile",
+    "slug": "BehaviorLoggerMobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
